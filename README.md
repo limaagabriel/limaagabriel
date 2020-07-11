@@ -8,7 +8,7 @@ At the software engineering perspective, I'm a practical developer with solid ob
 
 ### My projects  :computer:
 
-I'm currently working at PickCells, implementing a scalable platform to automate health exams powered by AI. It provides a significant amount of technical challenges, including horizontal scaling, use of web frameworks, adaptive algorithms for complex problem-solving. Thereby, it requires me to look for better solutions continuously.
+I'm currently working at [PickCells](https://www.pickcells.bio/), implementing a scalable platform to automate health exams powered by AI. It provides a significant amount of technical challenges, including horizontal scaling, use of web frameworks, adaptive algorithms for complex problem-solving. Thereby, it requires me to look for better solutions continuously.
 
 Therefore, I'm frequently experimenting and learning new tools and implementing my ideas. This profile hosts these experiments and projects, which I try to keep it as organized as possible. Also, I'm developing a personal webpage with blogging capabilities to discuss these projects in a more detailed manner.
 
