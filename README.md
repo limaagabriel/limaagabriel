@@ -2,7 +2,7 @@
 
 My name is **Gabriel**, and I am a **computer engineer** with a focus on problem-solving mainly with **machine learning** and **software development**.
 
-I have a bachelor's degree in computer engineering at the University of Pernambuco (UPE) since 2018. I'm currently finishing my master's degree also in computer engineering at UPE with a focus on computational intelligence. My main areas of interest are bio-inspired algorithms, including swarm intelligence techniques and neural networks. Also, I'm currently reading a lot about network science and graph theory.
+I have a master's degree in computer engineering at the University of Pernambuco (UPE) with focus on computational intelligence since 2020. I also have a bachelor's degree in computer engineering at UPE since 2018. My main areas of interest are bio-inspired algorithms, including swarm intelligence techniques and neural networks. Also, I'm currently reading a lot about network science and graph theory.
 
 At the software engineering perspective, I'm a practical developer with solid object-oriented programming concepts and an enthusiast of the functional programming paradigm. I have experience working with web development in agile and remote teams.
 
