@@ -18,7 +18,7 @@ Regarding my personal life:
 
 * I am christian [@zionrecife](https://www.instagram.com/zionrecife) :pray:
 * I live in Recife (Pernambuco, Brazil)  :pushpin:
-* I am hapilly married and have a dog!  :ring: :dog:
+* I am happily married and have a dog!  :ring: :dog:
 * I love to play and listen to music whenever possible  :musical_note:
 
 ### Get in touch  :coffee:
