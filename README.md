@@ -17,11 +17,11 @@ Therefore, I'm frequently experimenting and learning new tools and implementing 
 Regarding my personal life:
 
 * I am christian [@zionrecife](https://www.instagram.com/zionrecife) :pray:
-* I live in Olinda and work in Recife (Pernambuco, Brazil)  :pushpin:
-* I am married and have two dogs  :ring: :dog: :dog:
+* I live in Recife (Pernambuco, Brazil)  :pushpin:
+* I am hapilly married and have a dog!  :ring: :dog:
 * I love to play and listen to music whenever possible  :musical_note:
 
 ### Get in touch  :coffee:
 
 If you want to collaborate on any project, feel free to send a pull request.
-You can always send me an [e-mail](mailto:itsmealves@gmail.com) or, if it is your preference, you can find me on [Twitter (@_itsmealves)](https://twitter.com/_itsmealves).
+You can always send me an [e-mail](mailto:itsmealves@gmail.com) or, if it is your preference, you can find me on [Twitter (@lima_a_gabriel)](https://twitter.com/lima_a_gabriel).
