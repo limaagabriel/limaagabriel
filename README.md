@@ -16,7 +16,6 @@ Therefore, I'm frequently experimenting and learning new tools and implementing 
 
 Regarding my personal life:
 
-* I am christian [@zionrecife](https://www.instagram.com/zionrecife) :pray:
 * I live in Recife (Pernambuco, Brazil)  :pushpin:
 * I am happily married and have a dog!  :ring: :dog:
 * I love to play and listen to music whenever possible  :musical_note:
