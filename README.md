@@ -24,4 +24,4 @@ Regarding my personal life:
 ### Get in touch  :coffee:
 
 If you want to collaborate on any project, feel free to send a pull request.
-You can always send me an [e-mail](mailto:itsmealves@gmail.com) or, if it is your preference, you can find me on [Twitter (@lima_a_gabriel)](https://twitter.com/lima_a_gabriel).
+You can always send me an [e-mail](mailto:lima.a.gabriel@icloud.com)!
