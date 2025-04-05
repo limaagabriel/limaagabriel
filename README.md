@@ -10,7 +10,7 @@ At the software engineering perspective, I'm a practical developer with solid ob
 
 I'm currently working at [BTG Pactual](https://www.btgpactual.com/), which is the largest investment bank in Latin America, implementing tools to improve the portfolio managment problem. It provides a significant amount of technical challenges, including horizontal scaling, use of web frameworks, adaptive algorithms for complex problem-solving. Thereby, it requires me to look for better solutions continuously.
 
-Also, I'm a co-founder at [Imogen](https://www.imogen.com.br/), which is a DeepTech startup based in Recife which aims at delivering cutting-edge technology to assisted reproduction laboratories.
+Also, I'm a co-founder at [Imogen](https://www.imogen.com.br/), which is a DeepTech startup based in Recife which aims at delivering cutting-edge technology to assisted reproduction laboratories. This is a personal challenge as I need to learn skills about developing a new business, managing people and building a disruptive solution in an environment with lots of uncertainty.
 
 Therefore, I'm frequently experimenting and learning new tools and implementing my ideas. This profile hosts these experiments and projects, which I try to keep it as organized as possible. Also, I'm developing a personal webpage with blogging capabilities to discuss these projects in a more detailed manner.
 
@@ -20,6 +20,7 @@ Regarding my personal life:
 
 * I live in Recife (Pernambuco, Brazil)  :pushpin:
 * I am happily married and have a daughter!  :ring: :baby:
+* I am diagnosed with autism level 1 :sunflower:
 * I love to play and listen to music whenever possible  :musical_note:
 
 ### Get in touch  :coffee:
