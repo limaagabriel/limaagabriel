@@ -10,6 +10,8 @@ At the software engineering perspective, I'm a practical developer with solid ob
 
 I'm currently CTO and co-founder at [Imogen](https://www.imogen.com.br/), which is a DeepTech startup based in Recife which aims at delivering cutting-edge technology to assisted reproduction laboratories. This is a personal challenge as I need to learn skills about developing a new business, managing people and building a disruptive solution in an environment with lots of uncertainty.
 
+I also recently joined Liferay as a Front-end engineer. Liferay DXP is a huge project, with lots of challenging while being a successful open-source project.
+
 Therefore, I'm frequently experimenting and learning new tools and implementing my ideas. This profile hosts these experiments and projects, which I try to keep it as organized as possible. Also, I'm developing a personal webpage with blogging capabilities to discuss these projects in a more detailed manner.
 
 ### About me  :sunglasses:
