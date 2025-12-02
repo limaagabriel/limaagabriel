@@ -12,7 +12,7 @@ I'm currently CTO and co-founder at [Imogen](https://www.imogen.com.br/), which 
 
 I also recently joined Liferay as a Front-end engineer. Liferay DXP is a huge project, with lots of challenging while being a successful open-source project.
 
-Therefore, I'm frequently experimenting and learning new tools and implementing my ideas. This profile hosts these experiments and projects, which I try to keep it as organized as possible. Also, I'm developing a personal webpage with blogging capabilities to discuss these projects in a more detailed manner.
+Therefore, I'm frequently experimenting and learning new tools and implementing my ideas. This profile hosts these experiments and projects.
 
 ### About me  :sunglasses:
 
