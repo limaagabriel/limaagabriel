@@ -4,11 +4,11 @@ My name is **Gabriel**, and I am a **computer engineer** focused on problem-solv
 
 I hold a master's degree in Computer Engineering from the University of Pernambuco (UPE), with a focus on computational intelligence (2020), and a bachelor's degree in Computer Engineering from UPE (2018). My main areas of interest include bio-inspired algorithms, swarm intelligence techniques, and neural networks.
 
-From a software engineering perspective, I am a pragmatic developer with solid object-oriented programming foundations and a passion for functional programming. I have extensive experience working with web development in **agile, geographically distributed teams**, collaborating across time zones and cultures.
+From a software engineering perspective, I am a pragmatic developer with solid object-oriented programming foundations and a passion for functional programming. I have extensive experience with web development in **agile, geographically distributed teams**, spanning multiple time zones and cultures.
 
 ### My projects  :computer:
 
-I work at Liferay as a Front-end Engineer. Liferay DXP is a large-scale, widely adopted open-source project that presents complex and rewarding engineering challenges. I'm currently working at the Platform Experience team, which develop and maintains features across the whole portal, focusing on consistency, accessibility and flexibility.
+I work at Liferay as a Front-end Engineer. Liferay DXP is a large-scale, widely adopted open-source project that presents complex and rewarding engineering challenges. I currently work on the Platform Experience team, which develops and maintains features across the entire portal, with a focus on consistency, accessibility, and flexibility.
 
 I am also CTO and co-founder at [Imogen](https://www.imogen.com.br/), a DeepTech startup based in Recife that delivers cutting-edge technology to assisted reproduction laboratories. This role has pushed me to grow beyond engineering — learning to build a business, lead people, and craft disruptive solutions in a highly uncertain environment.
 
