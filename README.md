@@ -1,18 +1,18 @@
 ### Hi!  :wave:
 
-My name is **Gabriel**, and I am a **computer engineer** with a focus on problem-solving mainly with **machine learning** and **software development**.
+My name is **Gabriel**, and I am a **computer engineer** focused on problem-solving through **machine learning** and **software development**.
 
-I have a master's degree in computer engineering at the University of Pernambuco (UPE) with focus on computational intelligence since 2020. I also have a bachelor's degree in computer engineering at UPE since 2018. My main areas of interest are bio-inspired algorithms, including swarm intelligence techniques and neural networks.
+I hold a master's degree in Computer Engineering from the University of Pernambuco (UPE), with a focus on computational intelligence (2020), and a bachelor's degree in Computer Engineering from UPE (2018). My main areas of interest include bio-inspired algorithms, swarm intelligence techniques, and neural networks.
 
-At the software engineering perspective, I'm a practical developer with solid object-oriented programming concepts and an enthusiast of the functional programming paradigm. I have experience working with web development in agile and remote teams.
+From a software engineering perspective, I am a pragmatic developer with solid object-oriented programming foundations and a passion for functional programming. I have extensive experience working with web development in **agile, geographically distributed teams**, and have also **led and managed engineering teams**, driving collaboration across time zones and cultures.
 
 ### My projects  :computer:
 
-I work at Liferay as a Front-end engineer. Liferay DXP is a huge project, with lots of challenging while being a successful open-source project.
+I work at Liferay as a Front-end Engineer. Liferay DXP is a large-scale, widely adopted open-source project that presents complex and rewarding engineering challenges.
 
-I'm also CTO and co-founder at [Imogen](https://www.imogen.com.br/), which is a DeepTech startup based in Recife which aims at delivering cutting-edge technology to assisted reproduction laboratories. This is a personal challenge as I need to learn skills about developing a new business, managing people and building a disruptive solution in an environment with lots of uncertainty.
+I am also CTO and co-founder at [Imogen](https://www.imogen.com.br/), a DeepTech startup based in Recife that delivers cutting-edge technology to assisted reproduction laboratories. This role has pushed me to grow beyond engineering — learning to build a business, lead people, and craft disruptive solutions in a highly uncertain environment.
 
-Therefore, I'm frequently experimenting and learning new tools and implementing my ideas. This profile hosts these experiments and projects.
+I am always experimenting with new tools and turning ideas into projects. This profile hosts those experiments.
 
 ### About me  :sunglasses:
 
